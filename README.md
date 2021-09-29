@@ -1,3 +1,8 @@
+TODO / Idea: Move Validation Contract by FEN state transition. 
+
+
+____
+
 # On Chain Chess
  
 [![Stories in Ready](https://badge.waffle.io/ise-ethereum/on-chain-chess.svg?label=ready&title=Ready)](http://waffle.io/ise-ethereum/on-chain-chess)
